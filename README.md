@@ -11,7 +11,7 @@ npm ci
 npm run dev
 ```
 
-Open the local URL shown in the terminal (usually `http://localhost:5173/`). For a production build, run `npm run build`.
+Open the local URL shown in the terminal (usually `http://localhost:3000/`). For a production build, run `npm run build`.
 
 ## What is included
 
@@ -24,4 +24,4 @@ Open the local URL shown in the terminal (usually `http://localhost:5173/`). For
 
 The current recommendation engine is rule-based; it does not call a hosted AI model. Recipe nutrition and price values are estimates, not medical or financial advice. Recipe imagery and source information come from [TheMealDB](https://www.themealdb.com/).
 
-The app is built with Next.js, React, TypeScript, Tailwind CSS, Vinext and Cloudflare tooling. No API key is required for local use. The public `.openai/hosting.json` has no database or storage bindings.
+The app is built with Next.js, React, TypeScript and Tailwind CSS. Import this repository into Vercel as a Next.js project using the default build settings. No API key is required. The public `.openai/hosting.json` has no database or storage bindings.
