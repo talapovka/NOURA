@@ -1,0 +1,3486 @@
+[
+  {
+    "id": "53118",
+    "title": "Овсяная каша со сметаной",
+    "sourceTitle": "Rømmegrøt – Norwegian Sour Cream Porridge",
+    "image": "https://www.themealdb.com/images/media/meals/hyk47c1762772689.jpg",
+    "meal": "breakfast",
+    "calories": 510,
+    "protein": 18,
+    "fat": 19,
+    "carbs": 62,
+    "fiber": 6,
+    "cost": 2.1,
+    "time": 18,
+    "difficulty": "Легко",
+    "cuisine": "Norway",
+    "equipment": [
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Full fat sour cream",
+        "amount": "2 cups",
+        "nameRu": "Full fat sour cream",
+        "category": "Молочные продукты"
+      },
+      {
+        "name": "Flour",
+        "amount": "3/4 cup",
+        "nameRu": "мука",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Milk",
+        "amount": "2 cups",
+        "nameRu": "молоко",
+        "category": "Молочные продукты"
+      },
+      {
+        "name": "Salt",
+        "amount": "1 tsp",
+        "nameRu": "Salt",
+        "category": "Специи"
+      },
+      {
+        "name": "Sugar",
+        "amount": "Sprinkling",
+        "nameRu": "Sugar",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Cinnamon",
+        "amount": "Sprinkling",
+        "nameRu": "Cinnamon",
+        "category": "Специи"
+      },
+      {
+        "name": "Butter",
+        "amount": "To taste",
+        "nameRu": "сливочное масло",
+        "category": "Молочные продукты"
+      }
+    ],
+    "allergens": [
+      "Молоко",
+      "Глютен"
+    ],
+    "vegetarian": true,
+    "vegan": false,
+    "halalIngredients": true,
+    "steps": [
+      {
+        "text": "Смешайте крупу с молоком и доведите до кипения",
+        "seconds": 120
+      },
+      {
+        "text": "Варите на слабом огне до мягкости, периодически помешивая",
+        "seconds": 450
+      },
+      {
+        "text": "Подавайте с ягодами и ложкой йогурта",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "Cook the sour cream in a covered saucepan on medium heat for about 5 minutes.",
+      "Turn down the heat and add half of the flour and stir well with a whisk.",
+      "Once the flour is fully incorporated, let the mixture continue to cook, stirring occasionally, until fat starts to release.",
+      "Use a spoon to gather as much of the fat as you can in a small bowl, saving for later. (Don't worry if you can't get any fat – in that case you can add butter later.)",
+      "Whisk in the rest of the flour and then slowly add the milk, whisking constantly to avoid lumps.",
+      "Let the porridge continue to cook on low heat for 5 minutes and then add salt.",
+      "Serve with sugar, cinnamon, and the fat from the porridge.",
+      "If you're using lower fat sour cream you can top the rømmegrøt with some butter instead."
+    ]
+  },
+  {
+    "id": "53331",
+    "title": "Овсяные панкейки",
+    "sourceTitle": "Oatmeal pancakes",
+    "image": "https://www.themealdb.com/images/media/meals/c400ok1764439058.jpg",
+    "meal": "breakfast",
+    "calories": 460,
+    "protein": 22,
+    "fat": 13,
+    "carbs": 61,
+    "fiber": 6,
+    "cost": 2.8,
+    "time": 20,
+    "difficulty": "Легко",
+    "cuisine": "Venezuela",
+    "equipment": [
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Egg",
+        "amount": "1 medium",
+        "nameRu": "яйца",
+        "category": "Молочные продукты"
+      },
+      {
+        "name": "Milk",
+        "amount": "80 ml",
+        "nameRu": "молоко",
+        "category": "Молочные продукты"
+      },
+      {
+        "name": "Sugar",
+        "amount": "1 tablespoon",
+        "nameRu": "Sugar",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Baking Powder",
+        "amount": "1 tsp",
+        "nameRu": "Baking Powder",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Salt",
+        "amount": "Pinch",
+        "nameRu": "Salt",
+        "category": "Специи"
+      },
+      {
+        "name": "Vanilla Extract",
+        "amount": "1 dash",
+        "nameRu": "Vanilla Extract",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Ground Oats",
+        "amount": "150g",
+        "nameRu": "Ground Oats",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Butter",
+        "amount": "150g",
+        "nameRu": "сливочное масло",
+        "category": "Молочные продукты"
+      },
+      {
+        "name": "Sugar Syrup",
+        "amount": "1 tablespoon",
+        "nameRu": "Sugar Syrup",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Strawberries",
+        "amount": "3",
+        "nameRu": "Strawberries",
+        "category": "Бакалея"
+      }
+    ],
+    "allergens": [
+      "Молоко",
+      "Яйца"
+    ],
+    "vegetarian": true,
+    "vegan": false,
+    "halalIngredients": true,
+    "steps": [
+      {
+        "text": "Измельчите овсянку и смешайте с яйцом и молоком",
+        "seconds": 120
+      },
+      {
+        "text": "Выкладывайте тесто ложкой на горячую сковороду",
+        "seconds": 500
+      },
+      {
+        "text": "Обжарьте с двух сторон и подавайте с фруктами",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "Place all the ingredients in the glass and beat.",
+      "Let the mixture stand for 10 minutes.",
+      "Grease a hot frying pan with a little butter and pour a little of the mixture.",
+      "When it starts to bubble on the surface, turn over with a spatula.",
+      "Cook over medium-low heat so that they do not burn.",
+      "Finally, add the caramel and strawberries."
+    ]
+  },
+  {
+    "id": "52855",
+    "title": "Банановые панкейки",
+    "sourceTitle": "Banana Pancakes",
+    "image": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
+    "meal": "breakfast",
+    "calories": 430,
+    "protein": 17,
+    "fat": 12,
+    "carbs": 63,
+    "fiber": 7,
+    "cost": 2.6,
+    "time": 18,
+    "difficulty": "Легко",
+    "cuisine": "United States",
+    "equipment": [
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Banana",
+        "amount": "1 large",
+        "nameRu": "банан",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Eggs",
+        "amount": "2 medium",
+        "nameRu": "Eggs",
+        "category": "Молочные продукты"
+      },
+      {
+        "name": "Baking Powder",
+        "amount": "pinch",
+        "nameRu": "Baking Powder",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Vanilla Extract",
+        "amount": "spinkling",
+        "nameRu": "Vanilla Extract",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Oil",
+        "amount": "1 tsp",
+        "nameRu": "Oil",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Pecan Nuts",
+        "amount": "25g",
+        "nameRu": "Pecan Nuts",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Raspberries",
+        "amount": "125g",
+        "nameRu": "Raspberries",
+        "category": "Бакалея"
+      }
+    ],
+    "allergens": [
+      "Яйца",
+      "Орехи"
+    ],
+    "vegetarian": true,
+    "vegan": false,
+    "halalIngredients": true,
+    "steps": [
+      {
+        "text": "Разомните банан вилкой и вмешайте яйцо с мукой",
+        "seconds": 120
+      },
+      {
+        "text": "Жарьте небольшие панкейки на слабом огне",
+        "seconds": 450
+      },
+      {
+        "text": "Переверните, когда появятся пузырьки, и подавайте тёплыми",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "In a bowl, mash the banana with a fork until it resembles a thick purée.",
+      "Stir in the eggs, baking powder and vanilla.",
+      "Heat a large non-stick frying pan or pancake pan over a medium heat and brush with half the oil.",
+      "Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate.",
+      "Repeat the process with the remaining oil and batter.",
+      "Top the pancakes with the pecans and raspberries."
+    ]
+  },
+  {
+    "id": "53225",
+    "title": "Шакшука с томатами",
+    "sourceTitle": "Yemeni Lahsa (Elite Shakshuka)",
+    "image": "https://www.themealdb.com/images/media/meals/30s7vf1763741844.jpg",
+    "meal": "breakfast",
+    "calories": 390,
+    "protein": 22,
+    "fat": 21,
+    "carbs": 28,
+    "fiber": 5,
+    "cost": 3.4,
+    "time": 24,
+    "difficulty": "Средне",
+    "cuisine": "Saudi Arabian",
+    "equipment": [
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Egg",
+        "amount": "5",
+        "nameRu": "яйца",
+        "category": "Молочные продукты"
+      },
+      {
+        "name": "Onion",
+        "amount": "1 Diced",
+        "nameRu": "лук",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Tomato",
+        "amount": "1 Diced",
+        "nameRu": "томат",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Olive Oil",
+        "amount": "2 tablespoons",
+        "nameRu": "Olive Oil",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Allspice",
+        "amount": "1/4 tsp",
+        "nameRu": "Allspice",
+        "category": "Специи"
+      },
+      {
+        "name": "Black Pepper",
+        "amount": "1/4 tsp",
+        "nameRu": "Black Pepper",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Liquid Cheese",
+        "amount": "3  tablespoons",
+        "nameRu": "Liquid Cheese",
+        "category": "Молочные продукты"
+      }
+    ],
+    "allergens": [
+      "Молоко",
+      "Яйца"
+    ],
+    "vegetarian": true,
+    "vegan": false,
+    "halalIngredients": true,
+    "steps": [
+      {
+        "text": "Потушите лук, перец и томаты со специями",
+        "seconds": 120
+      },
+      {
+        "text": "Сделайте углубления и разбейте в них яйца",
+        "seconds": 600
+      },
+      {
+        "text": "Накройте крышкой, пока белки не схватятся",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "First, On medium heat, heat the olive oil and add the diced onion until it wethers.",
+      "Next, add the tomatoes and cook for another 4-5 min.",
+      "Lastly, add the all spice, salt, and cracked pepper.",
+      "Add the eggs and mix throughly for 2 minutes and cover to cook 5-6 minutes until top is solidified.",
+      "Lastly, spread the liquid cheese and have it covered for a minute.",
+      "I served mine Mediterranean style with hash-browns, Egyptian fava beans, Turkish salami and olives, cheese wedges, and greek feta."
+    ]
+  },
+  {
+    "id": "52962",
+    "title": "Яйца Бенедикт с лососем",
+    "sourceTitle": "Salmon Eggs Eggs Benedict",
+    "image": "https://www.themealdb.com/images/media/meals/1550440197.jpg",
+    "meal": "breakfast",
+    "calories": 590,
+    "protein": 38,
+    "fat": 32,
+    "carbs": 34,
+    "fiber": 5,
+    "cost": 5.8,
+    "time": 28,
+    "difficulty": "Средне",
+    "cuisine": "United States",
+    "equipment": [
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Eggs",
+        "amount": "4",
+        "nameRu": "Eggs",
+        "category": "Молочные продукты"
+      },
+      {
+        "name": "White Wine Vinegar",
+        "amount": "2 tbs",
+        "nameRu": "White Wine Vinegar",
+        "category": "Бакалея"
+      },
+      {
+        "name": "English Muffins",
+        "amount": "2",
+        "nameRu": "English Muffins",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Butter",
+        "amount": "To serve",
+        "nameRu": "сливочное масло",
+        "category": "Молочные продукты"
+      },
+      {
+        "name": "Smoked Salmon",
+        "amount": "8 slices",
+        "nameRu": "Smoked Salmon",
+        "category": "Мясо и рыба"
+      },
+      {
+        "name": "Lemon Juice",
+        "amount": "2 tsp",
+        "nameRu": "Lemon Juice",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "White Wine Vinegar",
+        "amount": "2 tsp",
+        "nameRu": "White Wine Vinegar",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Egg",
+        "amount": "3 Yolkes",
+        "nameRu": "яйца",
+        "category": "Молочные продукты"
+      },
+      {
+        "name": "Unsalted Butter",
+        "amount": "125g",
+        "nameRu": "Unsalted Butter",
+        "category": "Молочные продукты"
+      }
+    ],
+    "allergens": [
+      "Молоко",
+      "Яйца",
+      "Рыба"
+    ],
+    "vegetarian": false,
+    "vegan": false,
+    "halalIngredients": false,
+    "steps": [
+      {
+        "text": "Подрумяньте хлеб и подготовьте лосося",
+        "seconds": 120
+      },
+      {
+        "text": "Аккуратно сварите яйца пашот в едва кипящей воде",
+        "seconds": 700
+      },
+      {
+        "text": "Соберите тосты и добавьте соус",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "First make the Hollandaise sauce.",
+      "Put the lemon juice and vinegar in a small bowl, add the egg yolks and whisk with a balloon whisk until light and frothy.",
+      "Place the bowl over a pan of simmering water and whisk until mixture thickens.",
+      "Gradually add the butter, whisking constantly until thick – if it looks like it might be splitting, then whisk off the heat for a few mins.",
+      "Season and keep warm.",
+      "To poach the eggs, bring a large pan of water to the boil and add the vinegar.",
+      "Lower the heat so that the water is simmering gently.",
+      "Stir the water so you have a slight whirlpool, then slide in the eggs one by one."
+    ]
+  },
+  {
+    "id": "52965",
+    "title": "Картофельный завтрак с яйцом",
+    "sourceTitle": "Breakfast Potatoes",
+    "image": "https://www.themealdb.com/images/media/meals/1550441882.jpg",
+    "meal": "breakfast",
+    "calories": 540,
+    "protein": 24,
+    "fat": 21,
+    "carbs": 59,
+    "fiber": 6,
+    "cost": 2.7,
+    "time": 25,
+    "difficulty": "Средне",
+    "cuisine": "Canadian",
+    "equipment": [
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Potatoes",
+        "amount": "3 Medium",
+        "nameRu": "картофель",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Olive Oil",
+        "amount": "1 tbs",
+        "nameRu": "Olive Oil",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Bacon",
+        "amount": "2 strips",
+        "nameRu": "Bacon",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Garlic Clove",
+        "amount": "Minced",
+        "nameRu": "Garlic Clove",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Maple Syrup",
+        "amount": "1 tbs",
+        "nameRu": "Maple Syrup",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Parsley",
+        "amount": "Garnish",
+        "nameRu": "Parsley",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Salt",
+        "amount": "Pinch",
+        "nameRu": "Salt",
+        "category": "Специи"
+      },
+      {
+        "name": "Pepper",
+        "amount": "Pinch",
+        "nameRu": "перец",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Allspice",
+        "amount": "To taste",
+        "nameRu": "Allspice",
+        "category": "Специи"
+      }
+    ],
+    "allergens": [],
+    "vegetarian": false,
+    "vegan": false,
+    "halalIngredients": false,
+    "steps": [
+      {
+        "text": "Нарежьте картофель мелким кубиком",
+        "seconds": 120
+      },
+      {
+        "text": "Обжарьте его до золотистой корочки с луком",
+        "seconds": 625
+      },
+      {
+        "text": "Добавьте яйцо и доведите до готовности",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "Before you do anything, freeze your bacon slices that way when you're ready to prep, it'll be so much easier to chop!",
+      "Wash the potatoes and cut medium dice into square pieces.",
+      "To prevent any browning, place the already cut potatoes in a bowl filled with water.",
+      "In the meantime, heat 1-2 tablespoons of oil in a large skillet over medium-high heat.",
+      "Tilt the skillet so the oil spreads evenly.",
+      "Once the oil is hot, drain the potatoes and add to the skillet.",
+      "Season with salt, pepper, and Old Bay as needed.",
+      "Cook for 10 minutes, stirring the potatoes often, until brown."
+    ]
+  },
+  {
+    "id": "53011",
+    "title": "Курица с киноа по-гречески",
+    "sourceTitle": "Chicken Quinoa Greek Salad",
+    "image": "https://www.themealdb.com/images/media/meals/k29viq1585565980.jpg",
+    "meal": "lunch",
+    "calories": 640,
+    "protein": 48,
+    "fat": 19,
+    "carbs": 65,
+    "fiber": 7,
+    "cost": 5.6,
+    "time": 28,
+    "difficulty": "Средне",
+    "cuisine": "Greek",
+    "equipment": [
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Quinoa",
+        "amount": "225g",
+        "nameRu": "киноа",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Butter",
+        "amount": "25g",
+        "nameRu": "сливочное масло",
+        "category": "Молочные продукты"
+      },
+      {
+        "name": "Red Chilli",
+        "amount": "1 chopped",
+        "nameRu": "Red Chilli",
+        "category": "Специи"
+      },
+      {
+        "name": "Garlic",
+        "amount": "1 clove finely chopped",
+        "nameRu": "чеснок",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Chicken Breast",
+        "amount": "400g",
+        "nameRu": "Chicken Breast",
+        "category": "Мясо и рыба"
+      },
+      {
+        "name": "Olive Oil",
+        "amount": "2 tbs",
+        "nameRu": "Olive Oil",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Black Olives",
+        "amount": "Handful",
+        "nameRu": "Black Olives",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Red Onions",
+        "amount": "1 chopped",
+        "nameRu": "Red Onions",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Feta",
+        "amount": "100g",
+        "nameRu": "Feta",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Mint",
+        "amount": "Chopped",
+        "nameRu": "Mint",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Lemon",
+        "amount": "Juice of 1/2",
+        "nameRu": "лимон",
+        "category": "Овощи и фрукты"
+      }
+    ],
+    "allergens": [
+      "Молоко"
+    ],
+    "vegetarian": false,
+    "vegan": false,
+    "halalIngredients": true,
+    "steps": [
+      {
+        "text": "Промойте киноа и сварите до готовности",
+        "seconds": 120
+      },
+      {
+        "text": "Обжарьте курицу с лимоном и травами до полной готовности",
+        "seconds": 700
+      },
+      {
+        "text": "Смешайте с огурцом и томатами, добавьте соус",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "Cook the quinoa following the pack instructions, then rinse in cold water and drain thoroughly.",
+      "Meanwhile, mix the butter, chilli and garlic into a paste.",
+      "Toss the chicken fillets in 2 tsp of the olive oil with some seasoning.",
+      "Lay in a hot griddle pan and cook for 3-4 mins each side or until cooked through.",
+      "Transfer to a plate, dot with the spicy butter and set aside to melt.",
+      "Next, tip the tomatoes, olives, onion, feta and mint into a bowl.",
+      "Toss in the cooked quinoa.",
+      "Stir through the remaining olive oil, lemon juice and zest, and season well."
+    ]
+  },
+  {
+    "id": "52959",
+    "title": "Лосось с фенхелем и томатами",
+    "sourceTitle": "Baked salmon with fennel & tomatoes",
+    "image": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+    "meal": "dinner",
+    "calories": 620,
+    "protein": 43,
+    "fat": 30,
+    "carbs": 38,
+    "fiber": 5,
+    "cost": 7.2,
+    "time": 32,
+    "difficulty": "Не спеша",
+    "cuisine": "British",
+    "equipment": [
+      "Духовка",
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Fennel",
+        "amount": "2 medium",
+        "nameRu": "Fennel",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Parsley",
+        "amount": "2 tbs chopped",
+        "nameRu": "Parsley",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Lemon",
+        "amount": "Juice of 1",
+        "nameRu": "лимон",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Cherry Tomatoes",
+        "amount": "175g",
+        "nameRu": "Cherry Tomatoes",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Olive Oil",
+        "amount": "1 tbs",
+        "nameRu": "Olive Oil",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Salmon",
+        "amount": "350g",
+        "nameRu": "лосось",
+        "category": "Мясо и рыба"
+      },
+      {
+        "name": "Black Olives",
+        "amount": "to serve",
+        "nameRu": "Black Olives",
+        "category": "Бакалея"
+      }
+    ],
+    "allergens": [
+      "Рыба"
+    ],
+    "vegetarian": false,
+    "vegan": false,
+    "halalIngredients": true,
+    "steps": [
+      {
+        "text": "Разогрейте духовку и нарежьте фенхель",
+        "seconds": 120
+      },
+      {
+        "text": "Выложите лосося поверх овощей и сбрызните маслом",
+        "seconds": 800
+      },
+      {
+        "text": "Запекайте до готовности рыбы",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "Heat oven to 180C/fan 160C/gas 4.",
+      "Trim the fronds from the fennel and set aside.",
+      "Cut the fennel bulbs in half, then cut each half into 3 wedges.",
+      "Cook in boiling salted water for 10 mins, then drain well.",
+      "Chop the fennel fronds roughly, then mix with the parsley and lemon zest.",
+      "Spread the drained fennel over a shallow ovenproof dish, then add the tomatoes.",
+      "Drizzle with olive oil, then bake for 10 mins.",
+      "Nestle the salmon among the veg, sprinkle with lemon juice, then bake 15 mins more until the fish is just cooked."
+    ]
+  },
+  {
+    "id": "52773",
+    "title": "Лосось терияки с рисом",
+    "sourceTitle": "Honey Teriyaki Salmon",
+    "image": "https://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg",
+    "meal": "lunch",
+    "calories": 680,
+    "protein": 45,
+    "fat": 22,
+    "carbs": 73,
+    "fiber": 7,
+    "cost": 7.4,
+    "time": 30,
+    "difficulty": "Средне",
+    "cuisine": "Japanese",
+    "equipment": [
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Salmon",
+        "amount": "1 lb",
+        "nameRu": "лосось",
+        "category": "Мясо и рыба"
+      },
+      {
+        "name": "Olive oil",
+        "amount": "1 tablespoon",
+        "nameRu": "Olive oil",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Soy Sauce",
+        "amount": "2 tablespoons",
+        "nameRu": "Soy Sauce",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Sake",
+        "amount": "2 tablespoons",
+        "nameRu": "Sake",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Sesame Seed",
+        "amount": "4 tablespoons",
+        "nameRu": "Sesame Seed",
+        "category": "Бакалея"
+      }
+    ],
+    "allergens": [
+      "Рыба",
+      "Кунжут",
+      "Соя"
+    ],
+    "vegetarian": false,
+    "vegan": false,
+    "halalIngredients": true,
+    "steps": [
+      {
+        "text": "Сварите рис и смешайте ингредиенты для соуса",
+        "seconds": 120
+      },
+      {
+        "text": "Обжарьте лосося кожей вниз, затем переверните",
+        "seconds": 750
+      },
+      {
+        "text": "Прогрейте с терияки и подавайте с рисом",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "Mix all the ingredients in the Honey Teriyaki Glaze together.",
+      "Whisk to blend well.",
+      "Combine the salmon and the Glaze together.",
+      "Heat up a skillet on medium-low heat.",
+      "Add the oil, Pan-fry the salmon on both sides until it’s completely cooked inside and the glaze thickens.",
+      "Garnish with sesame and serve immediately."
+    ]
+  },
+  {
+    "id": "53366",
+    "title": "Говядина с брокколи",
+    "sourceTitle": "Beef and Broccoli Stir-Fry",
+    "image": "https://www.themealdb.com/images/media/meals/m0p0j81765568742.jpg",
+    "meal": "dinner",
+    "calories": 610,
+    "protein": 48,
+    "fat": 20,
+    "carbs": 57,
+    "fiber": 6,
+    "cost": 6.2,
+    "time": 23,
+    "difficulty": "Средне",
+    "cuisine": "Chinese",
+    "equipment": [
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Soy Sauce",
+        "amount": "1 tsp",
+        "nameRu": "Soy Sauce",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Dry sherry",
+        "amount": "1 tsp",
+        "nameRu": "Dry sherry",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Cornstarch",
+        "amount": "1/2 tsp",
+        "nameRu": "Cornstarch",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Black Pepper",
+        "amount": "1/8 teaspoon",
+        "nameRu": "Black Pepper",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Sirloin steak",
+        "amount": "1 lb",
+        "nameRu": "Sirloin steak",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Oyster Sauce",
+        "amount": "2 tablespoons",
+        "nameRu": "Oyster Sauce",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Dry sherry",
+        "amount": "1 tsp",
+        "nameRu": "Dry sherry",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Soy Sauce",
+        "amount": "1 tablespoon",
+        "nameRu": "Soy Sauce",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Chicken Stock",
+        "amount": "1/4 cup",
+        "nameRu": "Chicken Stock",
+        "category": "Мясо и рыба"
+      },
+      {
+        "name": "Broccoli",
+        "amount": "1 lb",
+        "nameRu": "брокколи",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "High Heat Cooking Oil",
+        "amount": "2 tablespoons",
+        "nameRu": "High Heat Cooking Oil",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Garlic",
+        "amount": "2 cloves minced",
+        "nameRu": "чеснок",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Cornstarch",
+        "amount": "1 tsp",
+        "nameRu": "Cornstarch",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Water",
+        "amount": "1 tablespoon",
+        "nameRu": "Water",
+        "category": "Бакалея"
+      }
+    ],
+    "allergens": [
+      "Соя"
+    ],
+    "vegetarian": false,
+    "vegan": false,
+    "halalIngredients": true,
+    "steps": [
+      {
+        "text": "Нарежьте говядину тонкими полосками",
+        "seconds": 120
+      },
+      {
+        "text": "Быстро обжарьте мясо на горячей сковороде",
+        "seconds": 575
+      },
+      {
+        "text": "Добавьте брокколи и соус, готовьте до мягкости овощей",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "Marinate the beef:",
+      "Stir together the beef marinade ingredients (1 teaspoon soy sauce, 1 teaspoon Chinese rice wine, 1/2 teaspoon cornstarch, 1/8 teaspoon black pepper) in a medium bowl.",
+      "Add the beef slices and stir until coated.",
+      "Let stand for 10 minutes.",
+      "Prepare the sauce:",
+      "Stir together the sauce ingredients (2 tablespoons oyster sauce, 1 teaspoon Chinese rice wine, 1 teaspoon soy sauce, 1/4 cup chicken broth) in a small bowl.",
+      "Blanch or steam the broccoli:",
+      "Bring a pot of water to a boil."
+    ]
+  },
+  {
+    "id": "52997",
+    "title": "Боул с говядиной и огурцом",
+    "sourceTitle": "Beef Banh Mi Bowls with Sriracha Mayo, Carrot & Pickled Cucumber",
+    "image": "https://www.themealdb.com/images/media/meals/z0ageb1583189517.jpg",
+    "meal": "lunch",
+    "calories": 670,
+    "protein": 44,
+    "fat": 24,
+    "carbs": 69,
+    "fiber": 7,
+    "cost": 6.7,
+    "time": 30,
+    "difficulty": "Средне",
+    "cuisine": "Vietnamese",
+    "equipment": [
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Rice",
+        "amount": "White",
+        "nameRu": "рис",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Onion",
+        "amount": "1",
+        "nameRu": "лук",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Lime",
+        "amount": "1",
+        "nameRu": "лайм",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Garlic Clove",
+        "amount": "3",
+        "nameRu": "Garlic Clove",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Cucumber",
+        "amount": "1",
+        "nameRu": "огурец",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Carrots",
+        "amount": "3 oz",
+        "nameRu": "Carrots",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Ground Beef",
+        "amount": "1 lb",
+        "nameRu": "Ground Beef",
+        "category": "Мясо и рыба"
+      },
+      {
+        "name": "Soy Sauce",
+        "amount": "2 oz",
+        "nameRu": "Soy Sauce",
+        "category": "Бакалея"
+      }
+    ],
+    "allergens": [
+      "Соя"
+    ],
+    "vegetarian": false,
+    "vegan": false,
+    "halalIngredients": true,
+    "steps": [
+      {
+        "text": "Сварите крупу для основы боула",
+        "seconds": 120
+      },
+      {
+        "text": "Обжарьте говядину со специями и подготовьте овощи",
+        "seconds": 750
+      },
+      {
+        "text": "Соберите боул с огурцом и соусом",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "Add'l ingredients: mayonnaise, siracha",
+      "Place rice in a fine-mesh sieve and rinse until water runs clear.",
+      "Add to a small pot with 1 cup water (2 cups for 4 servings) and a pinch of salt.",
+      "Bring to a boil, then cover and reduce heat to low.",
+      "Cook until rice is tender, 15 minutes.",
+      "Keep covered off heat for at least 10 minutes or until ready to serve.",
+      "Meanwhile, wash and dry all produce.",
+      "Peel and finely chop garlic."
+    ]
+  },
+  {
+    "id": "52850",
+    "title": "Курица с кускусом",
+    "sourceTitle": "Chicken Couscous",
+    "image": "https://www.themealdb.com/images/media/meals/qxytrx1511304021.jpg",
+    "meal": "lunch",
+    "calories": 620,
+    "protein": 44,
+    "fat": 18,
+    "carbs": 71,
+    "fiber": 7,
+    "cost": 4.4,
+    "time": 25,
+    "difficulty": "Средне",
+    "cuisine": "Moroccan",
+    "equipment": [
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Olive Oil",
+        "amount": "1 tbsp",
+        "nameRu": "Olive Oil",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Onion",
+        "amount": "1 chopped",
+        "nameRu": "лук",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Chicken Breast",
+        "amount": "200g",
+        "nameRu": "Chicken Breast",
+        "category": "Мясо и рыба"
+      },
+      {
+        "name": "Ginger",
+        "amount": "pinch",
+        "nameRu": "Ginger",
+        "category": "Специи"
+      },
+      {
+        "name": "Harissa Spice",
+        "amount": "2 tblsp",
+        "nameRu": "Harissa Spice",
+        "category": "Специи"
+      },
+      {
+        "name": "Dried Apricots",
+        "amount": "10",
+        "nameRu": "Dried Apricots",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Chickpeas",
+        "amount": "220g",
+        "nameRu": "нут",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Couscous",
+        "amount": "200g",
+        "nameRu": "кускус",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Chicken Stock",
+        "amount": "200ml",
+        "nameRu": "Chicken Stock",
+        "category": "Мясо и рыба"
+      },
+      {
+        "name": "Coriander",
+        "amount": "Handful",
+        "nameRu": "Coriander",
+        "category": "Бакалея"
+      }
+    ],
+    "allergens": [
+      "Глютен"
+    ],
+    "vegetarian": false,
+    "vegan": false,
+    "halalIngredients": true,
+    "steps": [
+      {
+        "text": "Залейте кускус кипятком и накройте",
+        "seconds": 120
+      },
+      {
+        "text": "Нарежьте и обжарьте курицу со специями",
+        "seconds": 625
+      },
+      {
+        "text": "Соедините с овощами и зеленью",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "Heat the olive oil in a large frying pan and cook the onion for 1-2 mins just until softened.",
+      "Add the chicken and fry for 7-10 mins until cooked through and the onions have turned golden.",
+      "Grate over the ginger, stir through the harissa to coat everything and cook for 1 min more.",
+      "Tip in the apricots, chickpeas and couscous, then pour over the stock and stir once.",
+      "Cover with a lid or tightly cover the pan with foil and leave for about 5 mins until the couscous has soaked up all the stock and is soft.",
+      "Fluff up the couscous with a fork and scatter over the coriander to serve.",
+      "Serve with extra harissa, if you like."
+    ]
+  },
+  {
+    "id": "52839",
+    "title": "Лингвини с креветками и чили",
+    "sourceTitle": "Chilli prawn linguine",
+    "image": "https://www.themealdb.com/images/media/meals/usywpp1511189717.jpg",
+    "meal": "dinner",
+    "calories": 650,
+    "protein": 39,
+    "fat": 19,
+    "carbs": 80,
+    "fiber": 7,
+    "cost": 6.5,
+    "time": 22,
+    "difficulty": "Средне",
+    "cuisine": "Italian",
+    "equipment": [
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Linguine Pasta",
+        "amount": "280g",
+        "nameRu": "Linguine Pasta",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Sugar Snap Peas",
+        "amount": "200g",
+        "nameRu": "Sugar Snap Peas",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Olive Oil",
+        "amount": "2 tblsp",
+        "nameRu": "Olive Oil",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Garlic Clove",
+        "amount": "2 cloves chopped",
+        "nameRu": "Garlic Clove",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Red Chilli",
+        "amount": "1 large",
+        "nameRu": "Red Chilli",
+        "category": "Специи"
+      },
+      {
+        "name": "King Prawns",
+        "amount": "24 Skinned",
+        "nameRu": "King Prawns",
+        "category": "Мясо и рыба"
+      },
+      {
+        "name": "Cherry Tomatoes",
+        "amount": "12",
+        "nameRu": "Cherry Tomatoes",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Basil Leaves",
+        "amount": "Handful",
+        "nameRu": "Basil Leaves",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Lettuce",
+        "amount": "Leaves",
+        "nameRu": "Lettuce",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Bread",
+        "amount": "to serve",
+        "nameRu": "Bread",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Fromage Frais",
+        "amount": "2 tbsp",
+        "nameRu": "Fromage Frais",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Lime",
+        "amount": "Grated Zest of 2",
+        "nameRu": "лайм",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Caster Sugar",
+        "amount": "2 tsp",
+        "nameRu": "Caster Sugar",
+        "category": "Бакалея"
+      }
+    ],
+    "allergens": [
+      "Глютен",
+      "Морепродукты"
+    ],
+    "vegetarian": false,
+    "vegan": false,
+    "halalIngredients": true,
+    "steps": [
+      {
+        "text": "Отварите пасту до состояния аль денте",
+        "seconds": 120
+      },
+      {
+        "text": "Быстро прогрейте чеснок и чили в масле, добавьте креветки",
+        "seconds": 550
+      },
+      {
+        "text": "Перемешайте пасту с соусом и зеленью",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "Mix the dressing ingredients in a small bowl and season with salt and pepper.",
+      "Cook the pasta according to the packet instructions.",
+      "Add the sugar snap peas for the last minute or so of cooking time.",
+      "Meanwhile, heat the oil in a wok or large frying pan, toss in the garlic and chilli and cook over a fairly gentle heat for about 30 seconds without letting the garlic brown.",
+      "Tip in the prawns and cook over a high heat, stirring frequently, for about 3 minutes until they turn pink.",
+      "Add the tomatoes and cook, stirring occasionally, for 3 minutes until they just start to soften.",
+      "Drain the pasta and sugar snaps well, then toss into the prawn mixture.",
+      "Tear in the basil leaves, stir, and season with salt and pepper."
+    ]
+  },
+  {
+    "id": "52777",
+    "title": "Средиземноморский салат с пастой",
+    "sourceTitle": "Mediterranean Pasta Salad",
+    "image": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
+    "meal": "lunch",
+    "calories": 540,
+    "protein": 18,
+    "fat": 20,
+    "carbs": 67,
+    "fiber": 7,
+    "cost": 4.1,
+    "time": 18,
+    "difficulty": "Легко",
+    "cuisine": "Italian",
+    "equipment": [
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "mozzarella balls",
+        "amount": "200 g",
+        "nameRu": "mozzarella balls",
+        "category": "Бакалея"
+      },
+      {
+        "name": "baby plum tomatoes",
+        "amount": "250 g",
+        "nameRu": "baby plum tomatoes",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "fresh basil",
+        "amount": "1  bunch",
+        "nameRu": "fresh basil",
+        "category": "Бакалея"
+      },
+      {
+        "name": "farfalle",
+        "amount": "350 g",
+        "nameRu": "farfalle",
+        "category": "Бакалея"
+      },
+      {
+        "name": "extra virgin olive oil",
+        "amount": "3  tablespoons",
+        "nameRu": "extra virgin olive oil",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Green Olives",
+        "amount": "40 g",
+        "nameRu": "Green Olives",
+        "category": "Бакалея"
+      },
+      {
+        "name": "tuna",
+        "amount": "200 g",
+        "nameRu": "tuna",
+        "category": "Бакалея"
+      },
+      {
+        "name": "salt",
+        "amount": "to taste",
+        "nameRu": "salt",
+        "category": "Специи"
+      },
+      {
+        "name": "pepper",
+        "amount": "to taste",
+        "nameRu": "перец",
+        "category": "Овощи и фрукты"
+      }
+    ],
+    "allergens": [],
+    "vegetarian": true,
+    "vegan": true,
+    "halalIngredients": true,
+    "steps": [
+      {
+        "text": "Сварите пасту и охладите",
+        "seconds": 120
+      },
+      {
+        "text": "Нарежьте помидоры и зелень, смешайте заправку",
+        "seconds": 450
+      },
+      {
+        "text": "Соедините всё и дайте настояться несколько минут",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "Bring a large saucepan of salted water to the boil",
+      "Add the pasta, stir once and cook for about 10 minutes or as directed on the packet.",
+      "Meanwhile, wash the tomatoes and cut into quarters.",
+      "Slice the olives.",
+      "Wash the basil.",
+      "Put the tomatoes into a salad bowl and tear the basil leaves over them.",
+      "Add a tablespoon of olive oil and mix.",
+      "When the pasta is ready, drain into a colander and run cold water over it to cool it quickly."
+    ]
+  },
+  {
+    "id": "52870",
+    "title": "Фахитас с нутом",
+    "sourceTitle": "Chickpea Fajitas",
+    "image": "https://www.themealdb.com/images/media/meals/tvtxpq1511464705.jpg",
+    "meal": "lunch",
+    "calories": 580,
+    "protein": 21,
+    "fat": 17,
+    "carbs": 78,
+    "fiber": 7,
+    "cost": 3.7,
+    "time": 20,
+    "difficulty": "Легко",
+    "cuisine": "Mexican",
+    "equipment": [
+      "Духовка",
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Chickpeas",
+        "amount": "400g",
+        "nameRu": "нут",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Olive Oil",
+        "amount": "1 tblsp",
+        "nameRu": "Olive Oil",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Paprika",
+        "amount": "pinch",
+        "nameRu": "Paprika",
+        "category": "Специи"
+      },
+      {
+        "name": "Tomatoes",
+        "amount": "2 small cut chunks",
+        "nameRu": "томаты",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Red Onions",
+        "amount": "1 finely sliced",
+        "nameRu": "Red Onions",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Red Wine Vinegar",
+        "amount": "2 tsp",
+        "nameRu": "Red Wine Vinegar",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Avocado",
+        "amount": "1",
+        "nameRu": "Avocado",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Lime",
+        "amount": "Juice of 1",
+        "nameRu": "лайм",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Lime",
+        "amount": "Chopped",
+        "nameRu": "лайм",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Sour Cream",
+        "amount": "100g",
+        "nameRu": "Sour Cream",
+        "category": "Молочные продукты"
+      },
+      {
+        "name": "Harissa Spice",
+        "amount": "2 tsp",
+        "nameRu": "Harissa Spice",
+        "category": "Специи"
+      },
+      {
+        "name": "Corn Tortillas",
+        "amount": "4",
+        "nameRu": "Corn Tortillas",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Coriander",
+        "amount": "to serve",
+        "nameRu": "Coriander",
+        "category": "Бакалея"
+      }
+    ],
+    "allergens": [
+      "Молоко"
+    ],
+    "vegetarian": true,
+    "vegan": false,
+    "halalIngredients": false,
+    "steps": [
+      {
+        "text": "Нарежьте сладкий перец и лук",
+        "seconds": 120
+      },
+      {
+        "text": "Обжарьте овощи с нутом и специями",
+        "seconds": 500
+      },
+      {
+        "text": "Подайте в тортилье со свежей зеленью",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "Heat oven to 200C/180C fan/gas 6 and line a baking tray with foil.",
+      "Drain the chickpeas, pat dry and tip onto the prepared baking tray.",
+      "Add the oil and paprika, toss to coat, then roast for 20-25 mins until browned and crisp, shaking halfway through cooking.",
+      "Meanwhile, put the tomatoes and onion in a small bowl with the vinegar and set aside to pickle.",
+      "Put the avocado in another bowl and mash with a fork, leaving some larger chunks.",
+      "Stir in the lime juice and season well.",
+      "Mix the soured cream with the harissa and set aside until ready to serve.",
+      "Heat a griddle pan until nearly smoking."
+    ]
+  },
+  {
+    "id": "53091",
+    "title": "Пита с фалафелем и тахини",
+    "sourceTitle": "Falafel Pita Sandwich with Tahini Sauce",
+    "image": "https://www.themealdb.com/images/media/meals/ae6clc1760524712.jpg",
+    "meal": "lunch",
+    "calories": 610,
+    "protein": 22,
+    "fat": 23,
+    "carbs": 72,
+    "fiber": 7,
+    "cost": 4.5,
+    "time": 25,
+    "difficulty": "Средне",
+    "cuisine": "Syrian",
+    "equipment": [
+      "Духовка",
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Falafel",
+        "amount": "12",
+        "nameRu": "Falafel",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Tahini",
+        "amount": "1/4 cup",
+        "nameRu": "Tahini",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Water",
+        "amount": "1/4 cup",
+        "nameRu": "Water",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Lemon Juice",
+        "amount": "2 tablespoons",
+        "nameRu": "Lemon Juice",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Garlic",
+        "amount": "2 cloves",
+        "nameRu": "чеснок",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Paprika",
+        "amount": "1/4 tsp",
+        "nameRu": "Paprika",
+        "category": "Специи"
+      },
+      {
+        "name": "Pita Bread",
+        "amount": "6",
+        "nameRu": "Pita Bread",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Lettuce",
+        "amount": "1",
+        "nameRu": "Lettuce",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Tomato",
+        "amount": "1",
+        "nameRu": "томат",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Cucumber",
+        "amount": "1/2",
+        "nameRu": "огурец",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Dill Pickles",
+        "amount": "1",
+        "nameRu": "Dill Pickles",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Red Onions",
+        "amount": "1/4",
+        "nameRu": "Red Onions",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Harissa Spice",
+        "amount": "3 tsp",
+        "nameRu": "Harissa Spice",
+        "category": "Специи"
+      }
+    ],
+    "allergens": [
+      "Глютен",
+      "Кунжут"
+    ],
+    "vegetarian": true,
+    "vegan": true,
+    "halalIngredients": true,
+    "steps": [
+      {
+        "text": "Разогрейте фалафель в духовке или аэрогриле",
+        "seconds": 120
+      },
+      {
+        "text": "Смешайте тахини с лимонным соком и водой",
+        "seconds": 625
+      },
+      {
+        "text": "Наполните питу овощами, фалафелем и соусом",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "Preheat the oven to 450 degrees F (230 degrees C).",
+      "Place falafel on a baking sheet.",
+      "Bake in the preheated oven until heated through, 8 to 10 minutes.",
+      "While falafel bake, whisk tahini, water, lemon juice, garlic, and paprika together in a bowl.",
+      "Cut about 1 inch from the top of each pita to form a pocket.",
+      "Add 2 falafel to each pita with equal amounts lettuce, tomato, cucumber, pickle, and red onion.",
+      "Drizzle each with about 1 tablespoon tahini sauce and some harissa."
+    ]
+  },
+  {
+    "id": "53267",
+    "title": "Кускус с баклажаном",
+    "sourceTitle": "Aubergine couscous salad",
+    "image": "https://www.themealdb.com/images/media/meals/02s6gc1763799560.jpg",
+    "meal": "dinner",
+    "calories": 520,
+    "protein": 17,
+    "fat": 16,
+    "carbs": 74,
+    "fiber": 7,
+    "cost": 3.9,
+    "time": 27,
+    "difficulty": "Средне",
+    "cuisine": "Turkish",
+    "equipment": [
+      "Духовка",
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Aubergine",
+        "amount": "1 sliced",
+        "nameRu": "баклажан",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Olive Oil",
+        "amount": "3  tablespoons",
+        "nameRu": "Olive Oil",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Couscous",
+        "amount": "140g",
+        "nameRu": "кускус",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Vegetable Stock",
+        "amount": "225g",
+        "nameRu": "Vegetable Stock",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Cherry Tomatoes",
+        "amount": "200g",
+        "nameRu": "Cherry Tomatoes",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Mint",
+        "amount": "Handful",
+        "nameRu": "Mint",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Goats Cheese",
+        "amount": "100g",
+        "nameRu": "Goats Cheese",
+        "category": "Молочные продукты"
+      },
+      {
+        "name": "Lemon",
+        "amount": "Juice of 1/2",
+        "nameRu": "лимон",
+        "category": "Овощи и фрукты"
+      }
+    ],
+    "allergens": [
+      "Молоко",
+      "Глютен"
+    ],
+    "vegetarian": true,
+    "vegan": false,
+    "halalIngredients": true,
+    "steps": [
+      {
+        "text": "Нарежьте баклажан и обжарьте до мягкости",
+        "seconds": 120
+      },
+      {
+        "text": "Заварите кускус горячей водой",
+        "seconds": 675
+      },
+      {
+        "text": "Смешайте с баклажаном, травами и лимоном",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "Heat grill to high.",
+      "Put the aubergine on a baking sheet, brush with oil and season.",
+      "Grill for about 15 mins, turning and brushing with more oil halfway, until browned and softened.",
+      "Meanwhile, tip the couscous into a large bowl, pour over the stock, then cover and leave for 10 mins.",
+      "Mix the tomatoes, mint, goat’s cheese and remaining oil together.",
+      "Fluff the couscous up with a fork, then stir in the aubergines, tomato mixture and lemon juice."
+    ]
+  },
+  {
+    "id": "53367",
+    "title": "Жареный рис с курицей",
+    "sourceTitle": "Chicken Fried Rice",
+    "image": "https://www.themealdb.com/images/media/meals/wuyd2h1765655837.jpg",
+    "meal": "lunch",
+    "calories": 640,
+    "protein": 43,
+    "fat": 17,
+    "carbs": 78,
+    "fiber": 7,
+    "cost": 4.8,
+    "time": 20,
+    "difficulty": "Легко",
+    "cuisine": "Chinese",
+    "equipment": [
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Chicken Thighs",
+        "amount": "1 lb",
+        "nameRu": "Chicken Thighs",
+        "category": "Мясо и рыба"
+      },
+      {
+        "name": "Salt",
+        "amount": "1 tsp",
+        "nameRu": "Salt",
+        "category": "Специи"
+      },
+      {
+        "name": "Canola Oil",
+        "amount": "3  tablespoons",
+        "nameRu": "Canola Oil",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Egg",
+        "amount": "3 Large",
+        "nameRu": "яйца",
+        "category": "Молочные продукты"
+      },
+      {
+        "name": "Onion",
+        "amount": "2/3 Cup",
+        "nameRu": "лук",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Garlic",
+        "amount": "2 cloves minced",
+        "nameRu": "чеснок",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Ground Ginger",
+        "amount": "2 tsp",
+        "nameRu": "Ground Ginger",
+        "category": "Специи"
+      },
+      {
+        "name": "Carrots",
+        "amount": "1 large",
+        "nameRu": "Carrots",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Peas",
+        "amount": "2/3 Cup",
+        "nameRu": "Peas",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Jasmine Rice",
+        "amount": "4 cups",
+        "nameRu": "Jasmine Rice",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Scallions",
+        "amount": "2 sliced",
+        "nameRu": "Scallions",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Chinese five spice powder",
+        "amount": "1/2 tsp",
+        "nameRu": "Chinese five spice powder",
+        "category": "Специи"
+      },
+      {
+        "name": "Soy Sauce",
+        "amount": "2.5 tbsp",
+        "nameRu": "Soy Sauce",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Sesame Seed Oil",
+        "amount": "1 tsp",
+        "nameRu": "Sesame Seed Oil",
+        "category": "Бакалея"
+      }
+    ],
+    "allergens": [
+      "Яйца",
+      "Кунжут",
+      "Соя"
+    ],
+    "vegetarian": false,
+    "vegan": false,
+    "halalIngredients": true,
+    "steps": [
+      {
+        "text": "Сварите рис заранее и охладите",
+        "seconds": 120
+      },
+      {
+        "text": "Обжарьте курицу до полной готовности",
+        "seconds": 500
+      },
+      {
+        "text": "Добавьте рис, яйцо, овощи и соус, быстро перемешайте",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "Fried rice is best made with leftover rice that's at least a day old.",
+      "Otherwise it becomes gummy in the skillet.",
+      "If you don’t have any leftover rice from the night before, cook a batch of rice and spread it on a large baking sheet or several large plates.",
+      "Let the rice dry out for about 1 to 2 hours before using it for fried rice.",
+      "Rice sticks to the pan very easily, so make sure to use a wok or pan that doesn’t have a sticky surface.",
+      "I usually cook stir-fries in my seasoned carbon steel wok, but cast iron or nonstick pans work well, too.",
+      "You might need to add a little more oil if things aren’t releasing easily.",
+      "Prepare the chicken:"
+    ]
+  },
+  {
+    "id": "52834",
+    "title": "Бефстроганов с грибами",
+    "sourceTitle": "Beef stroganoff",
+    "image": "https://www.themealdb.com/images/media/meals/svprys1511176755.jpg",
+    "meal": "dinner",
+    "calories": 690,
+    "protein": 46,
+    "fat": 30,
+    "carbs": 59,
+    "fiber": 6,
+    "cost": 6.4,
+    "time": 35,
+    "difficulty": "Не спеша",
+    "cuisine": "Russian",
+    "equipment": [
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Olive Oil",
+        "amount": "1 tbls",
+        "nameRu": "Olive Oil",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Onions",
+        "amount": "1",
+        "nameRu": "Onions",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Garlic",
+        "amount": "1 clove",
+        "nameRu": "чеснок",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Butter",
+        "amount": "1 tbsp",
+        "nameRu": "сливочное масло",
+        "category": "Молочные продукты"
+      },
+      {
+        "name": "Mushrooms",
+        "amount": "250g",
+        "nameRu": "грибы",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Beef Fillet",
+        "amount": "500g",
+        "nameRu": "Beef Fillet",
+        "category": "Мясо и рыба"
+      },
+      {
+        "name": "Plain Flour",
+        "amount": "1tbsp",
+        "nameRu": "Plain Flour",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Creme Fraiche",
+        "amount": "150g",
+        "nameRu": "Creme Fraiche",
+        "category": "Бакалея"
+      },
+      {
+        "name": "English Mustard",
+        "amount": "1 tbsp",
+        "nameRu": "English Mustard",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Beef Stock",
+        "amount": "100ml",
+        "nameRu": "Beef Stock",
+        "category": "Мясо и рыба"
+      },
+      {
+        "name": "Parsley",
+        "amount": "Topping",
+        "nameRu": "Parsley",
+        "category": "Овощи и фрукты"
+      }
+    ],
+    "allergens": [
+      "Молоко",
+      "Глютен"
+    ],
+    "vegetarian": false,
+    "vegan": false,
+    "halalIngredients": true,
+    "steps": [
+      {
+        "text": "Нарежьте говядину и грибы",
+        "seconds": 120
+      },
+      {
+        "text": "Обжарьте мясо до румяности, затем добавьте грибы",
+        "seconds": 875
+      },
+      {
+        "text": "Вмешайте соус и томите до мягкости мяса",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "Heat the olive oil in a non-stick frying pan then add the sliced onion and cook on a medium heat until completely softened, so around 15 mins, adding a little splash of water if they start to stick at all.",
+      "Crush in the garlic and cook for a 2-3 mins further, then add the butter.",
+      "Once the butter is foaming a little, add the mushrooms and cook for around 5 mins until completely softened.",
+      "Season everything well, then tip onto a plate.",
+      "Tip the flour into a bowl with a big pinch of salt and pepper, then toss the steak in the seasoned flour.",
+      "Add the steak pieces to the pan, splashing in a little oil if the pan looks particularly dry, and fry for 3-4 mins, until well coloured.",
+      "Tip the onions and mushrooms back into the pan.",
+      "Whisk the crème fraîche, mustard and beef stock together, then pour into the pan."
+    ]
+  },
+  {
+    "id": "52785",
+    "title": "Дал из красной чечевицы",
+    "sourceTitle": "Dal fry",
+    "image": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg",
+    "meal": "dinner",
+    "calories": 520,
+    "protein": 23,
+    "fat": 15,
+    "carbs": 69,
+    "fiber": 7,
+    "cost": 2.9,
+    "time": 30,
+    "difficulty": "Средне",
+    "cuisine": "India",
+    "equipment": [
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Toor dal",
+        "amount": "1 cup",
+        "nameRu": "Toor dal",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Water",
+        "amount": "2-1/2 cups",
+        "nameRu": "Water",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Salt",
+        "amount": "1 tsp",
+        "nameRu": "Salt",
+        "category": "Специи"
+      },
+      {
+        "name": "Turmeric",
+        "amount": "1/4 tsp",
+        "nameRu": "Turmeric",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Ghee",
+        "amount": "3 tbs",
+        "nameRu": "Ghee",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Chopped tomatoes",
+        "amount": "1 cup",
+        "nameRu": "Chopped tomatoes",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Cumin seeds",
+        "amount": "1/2 tsp",
+        "nameRu": "Cumin seeds",
+        "category": "Специи"
+      },
+      {
+        "name": "Mustard Seeds",
+        "amount": "1/2 tsp",
+        "nameRu": "Mustard Seeds",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Bay Leaf",
+        "amount": "2",
+        "nameRu": "Bay Leaf",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Green Chilli",
+        "amount": "1 tbs chopped",
+        "nameRu": "Green Chilli",
+        "category": "Специи"
+      },
+      {
+        "name": "Ginger",
+        "amount": "2 tsp shredded",
+        "nameRu": "Ginger",
+        "category": "Специи"
+      },
+      {
+        "name": "Cilantro",
+        "amount": "2 tbs",
+        "nameRu": "Cilantro",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Red Pepper",
+        "amount": "1/2 tsp",
+        "nameRu": "Red Pepper",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Salt",
+        "amount": "1/2 tsp",
+        "nameRu": "Salt",
+        "category": "Специи"
+      },
+      {
+        "name": "Sugar",
+        "amount": "1 tsp",
+        "nameRu": "Sugar",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Garam Masala",
+        "amount": "1/4 tsp",
+        "nameRu": "Garam Masala",
+        "category": "Бакалея"
+      }
+    ],
+    "allergens": [],
+    "vegetarian": true,
+    "vegan": true,
+    "halalIngredients": true,
+    "steps": [
+      {
+        "text": "Промойте чечевицу и нарежьте лук",
+        "seconds": 120
+      },
+      {
+        "text": "Прогрейте специи и тушите чечевицу с томатами",
+        "seconds": 750
+      },
+      {
+        "text": "Подавайте с зеленью и ломтиком лимона",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "Wash and soak toor dal in approx. 3 cups of water, for at least one hours.",
+      "Dal will be double in volume after soaking.",
+      "Drain the water.",
+      "Cook dal with 2-1/2 cups water and add salt, turmeric, on medium high heat, until soft in texture (approximately 30 mins) it should be like thick soup.",
+      "In a frying pan, heat the ghee.",
+      "Add cumin seeds, and mustard seeds.",
+      "After the seeds crack, add bay leaves, green chili, ginger and chili powder.",
+      "Stir for a few seconds."
+    ]
+  },
+  {
+    "id": "53486",
+    "title": "Суп с белой фасолью",
+    "sourceTitle": "Easy White Bean Soup",
+    "image": "https://www.themealdb.com/images/media/meals/p5nzbk1782680889.jpg",
+    "meal": "dinner",
+    "calories": 450,
+    "protein": 21,
+    "fat": 11,
+    "carbs": 63,
+    "fiber": 7,
+    "cost": 2.8,
+    "time": 30,
+    "difficulty": "Средне",
+    "cuisine": "Европейская",
+    "equipment": [
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Cannellini Beans",
+        "amount": "1 lb",
+        "nameRu": "Cannellini Beans",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Onions",
+        "amount": "2 medium",
+        "nameRu": "Onions",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Vegetable Oil",
+        "amount": "2 tablespoons",
+        "nameRu": "Vegetable Oil",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Red Pepper",
+        "amount": "2 medium",
+        "nameRu": "Red Pepper",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Tomato Puree",
+        "amount": "1/3 cup",
+        "nameRu": "Tomato Puree",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Carrots",
+        "amount": "2 medium",
+        "nameRu": "Carrots",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Water",
+        "amount": "6 cups",
+        "nameRu": "Water",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Dried Mint",
+        "amount": "1 tsp",
+        "nameRu": "Dried Mint",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Thyme",
+        "amount": "1/2 tsp",
+        "nameRu": "Thyme",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Summer Savoury",
+        "amount": "1 tsp",
+        "nameRu": "Summer Savoury",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Black Pepper",
+        "amount": "1 tsp",
+        "nameRu": "Black Pepper",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Salt",
+        "amount": "1 tsp",
+        "nameRu": "Salt",
+        "category": "Специи"
+      },
+      {
+        "name": "Parsley",
+        "amount": "Garnish",
+        "nameRu": "Parsley",
+        "category": "Овощи и фрукты"
+      }
+    ],
+    "allergens": [],
+    "vegetarian": true,
+    "vegan": true,
+    "halalIngredients": true,
+    "steps": [
+      {
+        "text": "Пассеруйте лук, морковь и чеснок",
+        "seconds": 120
+      },
+      {
+        "text": "Добавьте фасоль и бульон, доведите до кипения",
+        "seconds": 750
+      },
+      {
+        "text": "Проварите до мягкости и приправьте",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "Place beans in a large pot and cover with cold water.",
+      "Soak for at least 4 hours or overnight.",
+      "Drain and rinse, before you use in the soup.",
+      "Chop one of the onions and leave the other one whole.",
+      "Chop carrots.",
+      "Heat oil on a large pot over medium heat.",
+      "Add the onion and carrots.",
+      "Cook for 2 minutes."
+    ]
+  },
+  {
+    "id": "52807",
+    "title": "Баклажан бхарта",
+    "sourceTitle": "Baingan Bharta",
+    "image": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+    "meal": "dinner",
+    "calories": 470,
+    "protein": 16,
+    "fat": 18,
+    "carbs": 59,
+    "fiber": 6,
+    "cost": 3.2,
+    "time": 35,
+    "difficulty": "Не спеша",
+    "cuisine": "India",
+    "equipment": [
+      "Духовка",
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Aubergine",
+        "amount": "1 large",
+        "nameRu": "баклажан",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Onion",
+        "amount": "½ cup",
+        "nameRu": "лук",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Tomatoes",
+        "amount": "1 cup",
+        "nameRu": "томаты",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Garlic",
+        "amount": "6 cloves",
+        "nameRu": "чеснок",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Green Chilli",
+        "amount": "1",
+        "nameRu": "Green Chilli",
+        "category": "Специи"
+      },
+      {
+        "name": "Red Chilli Powder",
+        "amount": "¼ teaspoon",
+        "nameRu": "Red Chilli Powder",
+        "category": "Специи"
+      },
+      {
+        "name": "Oil",
+        "amount": "1.5 tablespoon",
+        "nameRu": "Oil",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Coriander Leaves",
+        "amount": "1 tablespoon chopped",
+        "nameRu": "Coriander Leaves",
+        "category": "Бакалея"
+      },
+      {
+        "name": "salt",
+        "amount": "as required",
+        "nameRu": "salt",
+        "category": "Специи"
+      }
+    ],
+    "allergens": [],
+    "vegetarian": true,
+    "vegan": true,
+    "halalIngredients": true,
+    "steps": [
+      {
+        "text": "Запеките баклажан до мягкости и снимите кожицу",
+        "seconds": 120
+      },
+      {
+        "text": "Обжарьте лук, томаты и специи",
+        "seconds": 875
+      },
+      {
+        "text": "Разомните баклажан и прогрейте всё вместе",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "Rinse the baingan (eggplant or aubergine) in water.",
+      "Pat dry with a kitchen napkin.",
+      "Apply some oil all over and",
+      "keep it for roasting on an open flame.",
+      "You can also grill the baingan or roast in the oven.",
+      "But then you won't get",
+      "the smoky flavor of the baingan.",
+      "Keep the eggplant turning after a 2 to 3 minutes on the flame, so that its evenly"
+    ]
+  },
+  {
+    "id": "53072",
+    "title": "Хрустящий баклажан",
+    "sourceTitle": "Crispy Eggplant",
+    "image": "https://www.themealdb.com/images/media/meals/c7lzrl1683208757.jpg",
+    "meal": "dinner",
+    "calories": 480,
+    "protein": 13,
+    "fat": 22,
+    "carbs": 56,
+    "fiber": 6,
+    "cost": 3.4,
+    "time": 25,
+    "difficulty": "Средне",
+    "cuisine": "Filipino",
+    "equipment": [
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Egg Plants",
+        "amount": "1 large",
+        "nameRu": "Egg Plants",
+        "category": "Молочные продукты"
+      },
+      {
+        "name": "Breadcrumbs",
+        "amount": "1 cup",
+        "nameRu": "Breadcrumbs",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Sesame Seed",
+        "amount": "50g",
+        "nameRu": "Sesame Seed",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Eggs",
+        "amount": "2",
+        "nameRu": "Eggs",
+        "category": "Молочные продукты"
+      },
+      {
+        "name": "Salt",
+        "amount": "To taste",
+        "nameRu": "Salt",
+        "category": "Специи"
+      },
+      {
+        "name": "Pepper",
+        "amount": "To taste",
+        "nameRu": "перец",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Vegetable Oil",
+        "amount": "For frying",
+        "nameRu": "Vegetable Oil",
+        "category": "Бакалея"
+      }
+    ],
+    "allergens": [
+      "Яйца",
+      "Глютен",
+      "Кунжут"
+    ],
+    "vegetarian": true,
+    "vegan": false,
+    "halalIngredients": false,
+    "steps": [
+      {
+        "text": "Нарежьте баклажан равномерными кусочками",
+        "seconds": 120
+      },
+      {
+        "text": "Обваляйте в крахмале и обжарьте до хруста",
+        "seconds": 625
+      },
+      {
+        "text": "Смешайте с соусом и подавайте сразу",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "Slice eggplant into 1 cm (0.4-inch) slices.",
+      "Place them in a bowl and sprinkle them with salt. allow them to sit for 30 minutes to render some of their liquid and bitterness.",
+      "After 30 minutes wash eggplant slices from salt and pat dry with a kitchen towel.",
+      "In a large bowl/plate place breadcrumbs and sesame seeds.",
+      "In another bowl beat 2 eggs with pinch salt and pepper.",
+      "Heal oil in a large skillet over high heat.",
+      "Dip eggplant slices in egg, then in crumbs, and place in hot oil.",
+      "Fry 2 to 3 minutes on each side, or until golden brown."
+    ]
+  },
+  {
+    "id": "52952",
+    "title": "Говядина с лапшой ло мейн",
+    "sourceTitle": "Beef Lo Mein",
+    "image": "https://www.themealdb.com/images/media/meals/1529444830.jpg",
+    "meal": "lunch",
+    "calories": 710,
+    "protein": 41,
+    "fat": 23,
+    "carbs": 84,
+    "fiber": 8,
+    "cost": 6,
+    "time": 26,
+    "difficulty": "Средне",
+    "cuisine": "Chinese",
+    "equipment": [
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Beef",
+        "amount": "1/2 lb",
+        "nameRu": "говядина",
+        "category": "Мясо и рыба"
+      },
+      {
+        "name": "Salt",
+        "amount": "pinch",
+        "nameRu": "Salt",
+        "category": "Специи"
+      },
+      {
+        "name": "Pepper",
+        "amount": "pinch",
+        "nameRu": "перец",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Sesame Seed Oil",
+        "amount": "2 tsp",
+        "nameRu": "Sesame Seed Oil",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Egg",
+        "amount": "1/2",
+        "nameRu": "яйца",
+        "category": "Молочные продукты"
+      },
+      {
+        "name": "Starch",
+        "amount": "3 tbs",
+        "nameRu": "Starch",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Oil",
+        "amount": "5 tbs",
+        "nameRu": "Oil",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Noodles",
+        "amount": "1/4 lb",
+        "nameRu": "лапша",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Onion",
+        "amount": "1/2 cup",
+        "nameRu": "лук",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Minced Garlic",
+        "amount": "1 tsp",
+        "nameRu": "Minced Garlic",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Ginger",
+        "amount": "1 tsp",
+        "nameRu": "Ginger",
+        "category": "Специи"
+      },
+      {
+        "name": "Bean Sprouts",
+        "amount": "1 cup",
+        "nameRu": "Bean Sprouts",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Mushrooms",
+        "amount": "1 cup",
+        "nameRu": "грибы",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Water",
+        "amount": "1 cup",
+        "nameRu": "Water",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Oyster Sauce",
+        "amount": "1 tbs",
+        "nameRu": "Oyster Sauce",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Sugar",
+        "amount": "1 tsp",
+        "nameRu": "Sugar",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Soy Sauce",
+        "amount": "1 tsp",
+        "nameRu": "Soy Sauce",
+        "category": "Бакалея"
+      }
+    ],
+    "allergens": [
+      "Яйца",
+      "Глютен",
+      "Кунжут",
+      "Соя"
+    ],
+    "vegetarian": false,
+    "vegan": false,
+    "halalIngredients": true,
+    "steps": [
+      {
+        "text": "Отварите лапшу и подготовьте овощи",
+        "seconds": 120
+      },
+      {
+        "text": "Быстро обжарьте говядину на сильном огне",
+        "seconds": 650
+      },
+      {
+        "text": "Добавьте лапшу, овощи и соус, перемешайте",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "STEP 1 - MARINATING THE BEEF",
+      "In a bowl, add the beef, salt, 1 pinch white pepper, 1 Teaspoon sesame seed oil, 1/2 egg, corn starch,1 Tablespoon of oil and mix together.",
+      "STEP 2 - BOILING THE THE NOODLES",
+      "In a 6 qt pot add your noodles to boiling water until the noodles are submerged and boil on high heat for 10 seconds.",
+      "After your noodles is done boiling strain and cool with cold water.",
+      "STEP 3 - STIR FRY",
+      "Add 2 Tablespoons of oil, beef and cook on high heat untill beef is medium cooked.",
+      "Set the cooked beef aside"
+    ]
+  },
+  {
+    "id": "52993",
+    "title": "Курица с брокколи и картофелем",
+    "sourceTitle": "Honey Balsamic Chicken with Crispy Broccoli & Potatoes",
+    "image": "https://www.themealdb.com/images/media/meals/kvbotn1581012881.jpg",
+    "meal": "dinner",
+    "calories": 650,
+    "protein": 49,
+    "fat": 21,
+    "carbs": 68,
+    "fiber": 7,
+    "cost": 5.1,
+    "time": 38,
+    "difficulty": "Не спеша",
+    "cuisine": "United States",
+    "equipment": [
+      "Духовка",
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Potatoes",
+        "amount": "5",
+        "nameRu": "картофель",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Broccoli",
+        "amount": "1",
+        "nameRu": "брокколи",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Garlic",
+        "amount": "2 cloves",
+        "nameRu": "чеснок",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Chicken Breast",
+        "amount": "2",
+        "nameRu": "Chicken Breast",
+        "category": "Мясо и рыба"
+      },
+      {
+        "name": "Balsamic Vinegar",
+        "amount": "",
+        "nameRu": "Balsamic Vinegar",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Honey",
+        "amount": "",
+        "nameRu": "Honey",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Chicken Stock",
+        "amount": "",
+        "nameRu": "Chicken Stock",
+        "category": "Мясо и рыба"
+      },
+      {
+        "name": "Butter",
+        "amount": "1 tbsp",
+        "nameRu": "сливочное масло",
+        "category": "Молочные продукты"
+      },
+      {
+        "name": "Vegetable Oil",
+        "amount": "1 tbsp",
+        "nameRu": "Vegetable Oil",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Olive Oil",
+        "amount": "1 tbsp",
+        "nameRu": "Olive Oil",
+        "category": "Бакалея"
+      }
+    ],
+    "allergens": [
+      "Молоко"
+    ],
+    "vegetarian": false,
+    "vegan": false,
+    "halalIngredients": true,
+    "steps": [
+      {
+        "text": "Разогрейте духовку и нарежьте картофель",
+        "seconds": 120
+      },
+      {
+        "text": "Запеките курицу и картофель до полной готовности",
+        "seconds": 950
+      },
+      {
+        "text": "Добавьте брокколи ближе к концу приготовления",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "Preheat oven to 425 degrees.",
+      "Wash and dry all produce.",
+      "Cut potatoes into 1/2-inch-thick wedges.",
+      "Toss on one side of a baking sheet with a drizzle of oil, salt, and pepper. (For 4 servings, spread potatoes out across entire sheet.) Roast on top rack for 5 minutes (we'll add the broccoli then).",
+      "Meanwhile, cut broccoli florets into bite-size pieces, if necessary.",
+      "Peel and finely chop garlic.",
+      "In a small microwave-safe bowl, combine 1 TBSP olive oil (2 TBSP for 4 servings) and half the garlic.",
+      "Microwave until garlic sizzles, 30 seconds."
+    ]
+  },
+  {
+    "id": "53152",
+    "title": "Хек с фасолью и томатами",
+    "sourceTitle": "Pan-fried hake, white bean & chorizo broth",
+    "image": "https://www.themealdb.com/images/media/meals/4yjart1763248459.jpg",
+    "meal": "dinner",
+    "calories": 560,
+    "protein": 44,
+    "fat": 16,
+    "carbs": 57,
+    "fiber": 6,
+    "cost": 5.9,
+    "time": 32,
+    "difficulty": "Не спеша",
+    "cuisine": "Spanish",
+    "equipment": [
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Dried white beans",
+        "amount": "450g",
+        "nameRu": "Dried white beans",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Garlic",
+        "amount": "4 cloves",
+        "nameRu": "чеснок",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Bay Leaves",
+        "amount": "2",
+        "nameRu": "Bay Leaves",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Thyme",
+        "amount": "1 teaspoon",
+        "nameRu": "Thyme",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Olive Oil",
+        "amount": "6 tablespoons",
+        "nameRu": "Olive Oil",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Bread",
+        "amount": "100g",
+        "nameRu": "Bread",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Chorizo",
+        "amount": "100g",
+        "nameRu": "Chorizo",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Onion",
+        "amount": "1",
+        "nameRu": "лук",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Paprika",
+        "amount": "3 tsp",
+        "nameRu": "Paprika",
+        "category": "Специи"
+      },
+      {
+        "name": "Chicken Stock",
+        "amount": "1 L",
+        "nameRu": "Chicken Stock",
+        "category": "Мясо и рыба"
+      },
+      {
+        "name": "Parsley",
+        "amount": "Handful",
+        "nameRu": "Parsley",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Hake",
+        "amount": "6",
+        "nameRu": "Hake",
+        "category": "Мясо и рыба"
+      }
+    ],
+    "allergens": [
+      "Глютен",
+      "Рыба"
+    ],
+    "vegetarian": false,
+    "vegan": false,
+    "halalIngredients": false,
+    "steps": [
+      {
+        "text": "Обжарьте лук и томаты в глубокой сковороде",
+        "seconds": 120
+      },
+      {
+        "text": "Добавьте фасоль и немного воды",
+        "seconds": 800
+      },
+      {
+        "text": "Положите хека в соус и томите до готовности рыбы",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "Drain the beans, then tip into a large pan with 2 litres of water.",
+      "Simmer with the whole garlic cloves, bay leaves and thyme for 30 mins or until cooked and tender.",
+      "Remove from the heat and set aside.",
+      "Meanwhile, heat 2 tbsp oil in a frying pan.",
+      "Fry the bread with the remaining garlic clove.",
+      "When golden and crisp, scoop out and drain on kitchen paper.",
+      "Add the chorizo to the pan, fry until crisp, tip out and keep warm with the bread.",
+      "Add another 2 tbsp oil and the onion to the pan, and cook for 5 mins until softened."
+    ]
+  },
+  {
+    "id": "52821",
+    "title": "Лакса с креветками и лапшой",
+    "sourceTitle": "Laksa King Prawn Noodles",
+    "image": "https://www.themealdb.com/images/media/meals/rvypwy1503069308.jpg",
+    "meal": "dinner",
+    "calories": 670,
+    "protein": 37,
+    "fat": 26,
+    "carbs": 72,
+    "fiber": 7,
+    "cost": 6.8,
+    "time": 30,
+    "difficulty": "Средне",
+    "cuisine": "Malaysian",
+    "equipment": [
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Olive Oil",
+        "amount": "1 tbsp",
+        "nameRu": "Olive Oil",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Red Chilli",
+        "amount": "1 finely sliced",
+        "nameRu": "Red Chilli",
+        "category": "Специи"
+      },
+      {
+        "name": "Thai red curry paste",
+        "amount": "2 ½ tbsp",
+        "nameRu": "Thai red curry paste",
+        "category": "Бакалея"
+      },
+      {
+        "name": "vegetable stock cube",
+        "amount": "1",
+        "nameRu": "vegetable stock cube",
+        "category": "Бакалея"
+      },
+      {
+        "name": "coconut milk",
+        "amount": "400ml can",
+        "nameRu": "coconut milk",
+        "category": "Молочные продукты"
+      },
+      {
+        "name": "fish sauce",
+        "amount": "2 tsp",
+        "nameRu": "fish sauce",
+        "category": "Мясо и рыба"
+      },
+      {
+        "name": "rice noodles",
+        "amount": "100g",
+        "nameRu": "rice noodles",
+        "category": "Бакалея"
+      },
+      {
+        "name": "lime",
+        "amount": "2 juice of 1, the other halved",
+        "nameRu": "лайм",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "king prawns",
+        "amount": "150g",
+        "nameRu": "king prawns",
+        "category": "Мясо и рыба"
+      },
+      {
+        "name": "coriander",
+        "amount": "½ small pack",
+        "nameRu": "coriander",
+        "category": "Бакалея"
+      }
+    ],
+    "allergens": [
+      "Молоко",
+      "Глютен",
+      "Рыба",
+      "Морепродукты",
+      "Орехи"
+    ],
+    "vegetarian": false,
+    "vegan": false,
+    "halalIngredients": true,
+    "steps": [
+      {
+        "text": "Подготовьте пасту карри и кокосовый бульон",
+        "seconds": 120
+      },
+      {
+        "text": "Отварите лапшу отдельно",
+        "seconds": 750
+      },
+      {
+        "text": "Проварите креветки в бульоне и соберите суп",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "Heat the oil in a medium saucepan and add the chilli.",
+      "Cook for 1 min, then add the curry paste, stir and cook for 1 min more.",
+      "Dissolve the stock cube in a large jug in 700ml boiling water, then pour into the pan and stir to combine.",
+      "Tip in the coconut milk and bring to the boil.",
+      "Add the fish sauce and a little seasoning.",
+      "Toss in the noodles and cook for a further 3-4 mins until softening.",
+      "Squeeze in the lime juice, add the prawns and cook through until warm, about 2-3 mins.",
+      "Scatter over some of the coriander."
+    ]
+  },
+  {
+    "id": "53278",
+    "title": "Баклажан с хумусом на гриле",
+    "sourceTitle": "Aubergine & hummus grills",
+    "image": "https://www.themealdb.com/images/media/meals/zub3s91764110535.jpg",
+    "meal": "lunch",
+    "calories": 480,
+    "protein": 17,
+    "fat": 20,
+    "carbs": 55,
+    "fiber": 6,
+    "cost": 3.5,
+    "time": 25,
+    "difficulty": "Средне",
+    "cuisine": "Turkish",
+    "equipment": [
+      "Духовка",
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Aubergine",
+        "amount": "2",
+        "nameRu": "баклажан",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Vegetable Oil",
+        "amount": "2 tablespoons",
+        "nameRu": "Vegetable Oil",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Bread",
+        "amount": "3 sliced thinly",
+        "nameRu": "Bread",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Hummus",
+        "amount": "300g",
+        "nameRu": "Hummus",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Walnuts",
+        "amount": "100g",
+        "nameRu": "Walnuts",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Parsley",
+        "amount": "40g",
+        "nameRu": "Parsley",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Cherry Tomatoes",
+        "amount": "200g",
+        "nameRu": "Cherry Tomatoes",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Lemon",
+        "amount": "Juice of 1/2",
+        "nameRu": "лимон",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "amount": "Splash",
+        "nameRu": "Extra Virgin Olive Oil",
+        "category": "Бакалея"
+      }
+    ],
+    "allergens": [
+      "Глютен",
+      "Орехи"
+    ],
+    "vegetarian": true,
+    "vegan": true,
+    "halalIngredients": true,
+    "steps": [
+      {
+        "text": "Нарежьте баклажан пластинами и смажьте маслом",
+        "seconds": 120
+      },
+      {
+        "text": "Подрумяньте на гриле или сковороде",
+        "seconds": 625
+      },
+      {
+        "text": "Подавайте с хумусом и свежими травами",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "Lay the aubergine out in one layer on a large baking sheet.",
+      "Brush sparingly with vegetable oil, then season generously.",
+      "Grill for 15 mins, turning twice and brushing with oil until the slices are softened and cooked through.",
+      "Meanwhile, whizz the bread into crumbs.",
+      "Add 2 tsp oil and whizz briefly again, to coat.",
+      "Spread a couple of tsps of hummus on top of each slice of aubergine.",
+      "Tip the breadcrumbs onto a large plate, then press the hummus side of the aubergines into the crumbs to coat.",
+      "Grill again, crumb-side up, for about 3 mins until golden."
+    ]
+  },
+  {
+    "id": "53490",
+    "title": "Перцы с творогом и фетой",
+    "sourceTitle": "Cottage Cheese And Feta Stuffed Peppers",
+    "image": "https://www.themealdb.com/images/media/meals/w0rsga1782683912.jpg",
+    "meal": "dinner",
+    "calories": 490,
+    "protein": 31,
+    "fat": 26,
+    "carbs": 31,
+    "fiber": 5,
+    "cost": 4.4,
+    "time": 35,
+    "difficulty": "Не спеша",
+    "cuisine": "Европейская",
+    "equipment": [
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Red Pepper",
+        "amount": "4",
+        "nameRu": "Red Pepper",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Feta",
+        "amount": "100g",
+        "nameRu": "Feta",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Cottage Cheese",
+        "amount": "200g",
+        "nameRu": "Cottage Cheese",
+        "category": "Молочные продукты"
+      },
+      {
+        "name": "Chives",
+        "amount": "1 tablespoon chopped",
+        "nameRu": "Chives",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Parsley",
+        "amount": "1 tablespoon chopped",
+        "nameRu": "Parsley",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Salt",
+        "amount": "1/4 tsp",
+        "nameRu": "Salt",
+        "category": "Специи"
+      },
+      {
+        "name": "Lemon Juice",
+        "amount": "1 tablespoon",
+        "nameRu": "Lemon Juice",
+        "category": "Овощи и фрукты"
+      }
+    ],
+    "allergens": [
+      "Молоко"
+    ],
+    "vegetarian": true,
+    "vegan": false,
+    "halalIngredients": true,
+    "steps": [
+      {
+        "text": "Разрежьте перцы и удалите семена",
+        "seconds": 120
+      },
+      {
+        "text": "Смешайте творог, фету и зелень",
+        "seconds": 875
+      },
+      {
+        "text": "Наполните перцы и запекайте до мягкости",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "Cut the peppers lengthwise and remove the seeds.",
+      "In a bowl combine 3.5 oz (100 grams) Feta cheese, 7 oz (200 grams) cottage cheese, 1 tbsp chopped chives (optional), 1 tbsp chopped parsley (optional), 1/4 tsp salt (more or less to taste) and 1 tbsp lemon juice.",
+      "Fill the peppers with the mixture.",
+      "Top with chopped chives and parsley."
+    ]
+  },
+  {
+    "id": "52891",
+    "title": "Ежевичный мусс",
+    "sourceTitle": "Blackberry Fool",
+    "image": "https://www.themealdb.com/images/media/meals/rpvptu1511641092.jpg",
+    "meal": "snack",
+    "calories": 260,
+    "protein": 7,
+    "fat": 10,
+    "carbs": 38,
+    "fiber": 5,
+    "cost": 2.9,
+    "time": 10,
+    "difficulty": "Легко",
+    "cuisine": "British",
+    "equipment": [
+      "Духовка",
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Hazlenuts",
+        "amount": "50g",
+        "nameRu": "Hazlenuts",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Butter",
+        "amount": "125g",
+        "nameRu": "сливочное масло",
+        "category": "Молочные продукты"
+      },
+      {
+        "name": "Caster Sugar",
+        "amount": "150g",
+        "nameRu": "Caster Sugar",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Lemon",
+        "amount": "Grated",
+        "nameRu": "лимон",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Plain Flour",
+        "amount": "150g",
+        "nameRu": "Plain Flour",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Baking Powder",
+        "amount": "½ tsp",
+        "nameRu": "Baking Powder",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Blackberries",
+        "amount": "600g",
+        "nameRu": "ежевика",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Sugar",
+        "amount": "75g",
+        "nameRu": "Sugar",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Caster Sugar",
+        "amount": "2 tbs",
+        "nameRu": "Caster Sugar",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Lemon Juice",
+        "amount": "1 tbs",
+        "nameRu": "Lemon Juice",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Double Cream",
+        "amount": "300ml",
+        "nameRu": "Double Cream",
+        "category": "Молочные продукты"
+      },
+      {
+        "name": "Yogurt",
+        "amount": "100ml",
+        "nameRu": "йогурт",
+        "category": "Молочные продукты"
+      },
+      {
+        "name": "Mint",
+        "amount": "Garnish with",
+        "nameRu": "Mint",
+        "category": "Бакалея"
+      }
+    ],
+    "allergens": [
+      "Молоко",
+      "Глютен",
+      "Орехи"
+    ],
+    "vegetarian": true,
+    "vegan": false,
+    "halalIngredients": true,
+    "steps": [
+      {
+        "text": "Разомните ежевику и протрите через сито",
+        "seconds": 120
+      },
+      {
+        "text": "Взбейте основу для мусса до воздушности",
+        "seconds": 250
+      },
+      {
+        "text": "Разложите по стаканам и охладите",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "For the biscuits, preheat the oven to 200C/180C (fan)/Gas 6 and line two large baking trays with baking parchment.",
+      "Scatter the nuts over a baking tray and roast in the oven for 6-8 minutes, or until golden-brown.",
+      "Watch them carefully so that they don’t have a chance to burn.",
+      "Remove from the oven, tip onto a board and leave to cool.",
+      "Put the butter and sugar in a large bowl and beat with a wooden spoon until light and creamy.",
+      "Roughly chop the cooled nuts and add to the creamed butter and sugar, along with the lemon zest, flour and baking powder.",
+      "Stir well until the mixture comes together and forms a ball – you may need to use your hands.",
+      "Divide the biscuit dough into 24 even pieces and roll into small balls."
+    ]
+  },
+  {
+    "id": "53100",
+    "title": "Черничный кекс с лимоном",
+    "sourceTitle": "Blueberry & lemon friands",
+    "image": "https://www.themealdb.com/images/media/meals/e756bf1761848342.jpg",
+    "meal": "snack",
+    "calories": 320,
+    "protein": 8,
+    "fat": 14,
+    "carbs": 42,
+    "fiber": 5,
+    "cost": 2.7,
+    "time": 30,
+    "difficulty": "Средне",
+    "cuisine": "Australian",
+    "equipment": [
+      "Духовка",
+      "Плита"
+    ],
+    "ingredients": [
+      {
+        "name": "Unsalted Butter",
+        "amount": "100g",
+        "nameRu": "Unsalted Butter",
+        "category": "Молочные продукты"
+      },
+      {
+        "name": "Icing Sugar",
+        "amount": "125g",
+        "nameRu": "Icing Sugar",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Flour",
+        "amount": "25g",
+        "nameRu": "мука",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Almonds",
+        "amount": "85g",
+        "nameRu": "Almonds",
+        "category": "Бакалея"
+      },
+      {
+        "name": "Egg White",
+        "amount": "3",
+        "nameRu": "Egg White",
+        "category": "Молочные продукты"
+      },
+      {
+        "name": "Unwaxed Lemon",
+        "amount": "1",
+        "nameRu": "Unwaxed Lemon",
+        "category": "Овощи и фрукты"
+      },
+      {
+        "name": "Blackberries",
+        "amount": "85g",
+        "nameRu": "ежевика",
+        "category": "Бакалея"
+      }
+    ],
+    "allergens": [
+      "Молоко",
+      "Яйца",
+      "Глютен",
+      "Орехи"
+    ],
+    "vegetarian": true,
+    "vegan": false,
+    "halalIngredients": true,
+    "steps": [
+      {
+        "text": "Смешайте сухие и жидкие ингредиенты отдельно",
+        "seconds": 120
+      },
+      {
+        "text": "Аккуратно вмешайте ягоды в тесто",
+        "seconds": 750
+      },
+      {
+        "text": "Разложите по формам и выпекайте до готовности",
+        "seconds": 60
+      }
+    ],
+    "originalDirections": [
+      "Preheat the oven to fan 180C/conventional 200C/gas 6.",
+      "Generously butter six non-stick friand or muffin tins.",
+      "Melt the butter and set aside to cool.",
+      "Sift the icing sugar and flour into a bowl.",
+      "Add the almonds and mix everything between your fingers.",
+      "Whisk the egg whites in another bowl until they form a light, floppy foam.",
+      "Make a well in the centre of the dry ingredients, tip in the egg whites and lemon rind, then lightly stir in the butter to form a soft batter.",
+      "Divide the batter among the tins, a large serving spoon is perfect for this job."
+    ]
+  }
+]
